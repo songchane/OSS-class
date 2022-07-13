@@ -56,3 +56,12 @@ python -m pip install --upgrade pip => pip 버전을 업그레이드해서 warni
 4. pip install numpy 가상환경에 numpy 설치
 5. pip show numpy 설치 확인
 6. deactivate로 가상환경에서 나오기 (파일명)이 안보임
+
+matplotlib: 시각화 하는 기능
+- 파일 만들고 python 들어감---------
+>>> import matplotlib.pyplot as plt
+>>> a = [1, 2, 3, 4, 5]
+>>> b = [10, 1, 5, 3, 9]
+>>> plt.plot(a, b)
+[<matplotlib.lines.Line2D object at 0x0000027E09F7FA00>]
+>>> plt.show()
