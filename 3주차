@@ -1,0 +1,21 @@
+가상환경 mybokeh에서 requirements.txt 생성
+－> python –m venv mybokeh
+－> mybokeh\scripts\activate
+－> pip install bokeh
+－> pip show numpy
+－> pip show bokeh
+－> pip freeze > requirements.txt
+－> pip list
+－> deactivate
+
+
+
+-r: 아까 가져온 파일에서 가져와라는 명령
+가상환경 cpbokeh를 requirements.txt를 반영하여 설치
+－> python –m venv cpbokeh
+－> cpbokeh\scripts\activate
+－> pip install –r requirements.txt
+－> pip show numpy
+－> pip show bokeh
+－> pip list
+－> deactivate
