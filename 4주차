@@ -18,3 +18,10 @@
 – 런타임  다시  시작: Ctrl+M .
 – 코드(텍스트) 셀로  변환: Ctrl+M Y(M)
 – 마지막 셀 작업 실행 취소: Ctrl+Shift+Z
+
+마스터 제목 스타일 편집 마스터 제목 스타일 편집
+마스터  제목  스타일  편집
+단일 .ipynb 파일을 clone 하는 방법
+•
+–      https://github.com/        에서  ~~~ 부분을
+– https://colab.research.google.com/github/ 로 교체
