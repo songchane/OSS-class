@@ -27,3 +27,5 @@
 – https://colab.research.google.com/github/ 로 교체
 
 %%writefile mystr.py : 코랩에 파일을 만
+
+- 마운트: 물리적인 장치(ex: 구글 드라이브)를 특정 위치 즉 디렉터리에 연결시켜주는 것
