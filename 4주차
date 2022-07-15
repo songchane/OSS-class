@@ -25,3 +25,5 @@
 •
 –      https://github.com/        에서  ~~~ 부분을
 – https://colab.research.google.com/github/ 로 교체
+
+%%writefile mystr.py : 코랩에 파일을 만
