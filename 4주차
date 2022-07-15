@@ -29,3 +29,8 @@
 %%writefile mystr.py : 코랩에 파일을 만
 
 - 마운트: 물리적인 장치(ex: 구글 드라이브)를 특정 위치 즉 디렉터리에 연결시켜주는 것
+
+- visual studio code: 가볍지만 강력한 소스 코드 편집기(데스크톱에서 실행)
+- 풍부한 다른 언어 지원(c, c++, c#, java, python, php, go)및 런타임
+
+- 첫 환경 설정: 확장 설치(python, korean)
