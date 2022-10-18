@@ -9,10 +9,10 @@
 - 플랫폼이 독립적 (모든 운영체제에서 사용 가능)
 
 ## 3. 마크다운의 프로세스
- a. 텍스트 편집기 또는 전용 markdown 응용 프로그램을 사용하연 markdown 파일 생성<br>
- b. 응용 프로그램에서 markdown 파일 오픈<br>
- c. 응용 프로그램을 사용하여 markdown파일은 HTML문서로 변환<br>
- d. 웹 브라우저에서 HRML파일을 보거나 markdown 응용 프로그램을 사용해 PDF 같은 다른 파일 형식으로 변환<br>
+ - 텍스트 편집기 또는 전용 markdown 응용 프로그램을 사용하연 markdown 파일 생성<br>
+ - 응용 프로그램에서 markdown 파일 오픈<br>
+ - 응용 프로그램을 사용하여 markdown파일은 HTML문서로 변환<br>
+ - 웹 브라우저에서 HRML파일을 보거나 markdown 응용 프로그램을 사용해 PDF 같은 다른 파일 형식으로 변환<br>
 
 ![image](https://user-images.githubusercontent.com/106071623/196365550-1a21bc96-d9b7-4806-9a7b-c22b67ff7318.png)
 
