@@ -155,7 +155,7 @@ __double underscores__ <br>
 
 ## 8. 깃허브 이모지
 - 구글에 깃허브 이모티콘 혹은 깃허브 이모지라고 검색하면 다양한 링크를 찾을 수 있다.   
-<https://www.webfx.com/tools/emoji-cheat-sheet/>
+<https://www.webfx.com/tools/emoji-cheat-sheet/> <br>
 <https://gist.github.com/rxaviers/7360908>
 
 ## 9. 참고문헌
