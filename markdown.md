@@ -25,6 +25,7 @@
 ### 4.2 단점
 1. 표준이 없어 도구에 따라 변환 방식이나 생성물이 다름
 2. 모든 HTML 마크업을 대신하지 못함
+* * *
 
 # :bangbang: markdown guide
 ## 1. Header
